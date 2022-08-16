@@ -1,0 +1,37 @@
+.main {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main .heading{
+    text-align: center;
+}
+.name, .address {
+    width: 100%;
+}
+
+.needs-validation .job-title{
+    width: 600px;
+}
+
+.needs-validation .feeling{
+    width: 776px;
+}
+
+.needs-validation .button-require{
+    width: 200px;
+    float: right;
+}
+
+.needs-validation .button-require .btn-primary{
+    text-transform: uppercase;
+}
+.form-body .needs-validation .row,
+.form-body .needs-validation .job-title,
+.form-body .needs-validation .feeling,
+.form-body .needs-validation .button-require
+{
+    margin-top: 16px;
+}
+

@@ -1,0 +1,93 @@
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    padding-top: 20px;
+    padding-left: 150px;
+    background-color: rgba(164, 158, 158, 0.9);
+}
+#img-car{
+    width: 100%;
+    height: auto;
+}
+#logo-car{
+    font-size: 20px;
+    /* padding-left: 70px; */
+    width: 580px;
+    height: 150px;
+    background-color: #e4e4e4f6;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+td small{
+    color: rgba(169, 166, 166, 0.91);
+}
+.img-list{
+    background-color: #e4e4e4f6;
+    padding-bottom: 20px;
+    width: 700px;
+}
+#table-list-car{
+    width: 360px;
+    height: 698px;
+    background-color: white;
+    position: absolute;
+    right: 240px;
+    top: 30px;
+}
+#list-table{
+    font-size: 20px;
+    height: 250px;
+    width: 350px;
+    padding-left: 16px;
+}
+#total-money{
+    font-size: 35px;
+}
+#list-payment{
+    padding-top: 10px;
+    font-size: 20px;
+    /* padding-left: 10px; */
+    background-color: #e4e4e4f6;
+    width: auto;
+    height: 280px;
+}
+
+#list-payment h1{
+    padding-left: 16px;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+#table-card-number{
+    margin-top: 32px;
+    width: 100%;
+    padding: 0px 16px;
+}
+#table-car-holder{
+    margin-top: 16px;
+    width: 100%;
+    padding: 16px 16px;
+}
+
+.table-list-car .list-table .cash-style{
+    float: right !important;
+}
+
+.style-btn{
+    font-size: 25px;
+    height: 80px;
+    width: 360px;
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+}
+
+.style-btn:hover{
+    cursor: pointer;
+    background-color: rgb(24, 22, 22);
+    color: #ccc;
+}
